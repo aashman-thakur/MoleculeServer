@@ -1,0 +1,17 @@
+body{
+    background-color:#222222;
+}
+
+input{
+    background-color: #222222;
+    position: absolute;
+    left:35%;
+    top:5%;
+    width: 50%;
+    border-color: aliceblue;
+}
+iframe{
+    position: absolute;
+    left:5%;
+    top:10%
+}
